@@ -1,15 +1,10 @@
-This is the Python OpenID library.
-
-[![Build Status][travis-image]][travis-link]
-
-[travis-image]: https://secure.travis-ci.org/openid/python-openid.png?branch=master
-[travis-link]: http://travis-ci.org/openid/python-openid
+This is a fork of the Python OpenID library.
 
 
 REQUIREMENTS
 ============
 
- - Python 2.3, 2.4, or 2.5.
+ - Python 2.3, 2.4, 2.5, 2.6, or 2.7.
 
  - ElementTree.  This is included in the Python 2.5 standard library,
    but users of earlier versions of Python may need to install it
